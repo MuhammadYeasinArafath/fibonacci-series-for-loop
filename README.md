@@ -4,4 +4,4 @@ Homework Series
 <br>
 fibonacci series by for loop, javascript.
 <br>
-live link:
+live link: https://muhammadyeasinarafath.github.io/fibonacci-series-for-loop/
